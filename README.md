@@ -43,27 +43,27 @@
 ---
 
 ### **2. 연구팀 세부과제 연계성**
-[![이미지](image/1.%20세부과제%20연계성.png)](https://example.com)
+[![이미지](image/1.%20세부과제%20연계성.png)]
 
 ---
 
 ### **3. 프레임워크**
-[![이미지](image/2.%20Kokkos%20기반한%20프레임워크.png)](https://example.com)
+[![이미지](image/2.%20Kokkos%20기반한%20프레임워크.png)]
 
 ---
 
 ### **4. 2차년도 연구 목표**
-[![이미지](image/3.%202차년도%20연구%20목표.png)](https://example.com)
+[![이미지](image/3.%202차년도%20연구%20목표.png)]
 
 ---
 
 ### **5. 연구팀 / 연구 기관 및 연구 내용**
-[![이미지](image/4.%20연구%20기관%20및%20연구%20내용(2단계%20연구기관%20추가).png)](https://example.com)
+[![이미지](image/4.%20연구%20기관%20및%20연구%20내용(2단계%20연구기관%20추가).png)]
 
 ---
 
 ### **6. 연차별 연구내용**
-[![이미지](image/5.%20연차별%20연구내용.png)](https://example.com)
+[![이미지](image/5.%20연차별%20연구내용.png)]
 
 ---
 
@@ -71,11 +71,11 @@
 
 | 번호 | 게재연월 | 논문제목 | 총저자명 | 출처 | 학술지명 | 권(호) | 학술지구분 | SCI여부 | IF | 국제공동연구논문여부 | 기여도 | 링크 |
 |------|---------|---------|---------|------|---------|--------|-----------|---------|----|--------------------|-------|------|
-| 1    | 202406   | Fully Harnessing the Performance Potential of DRAM-less Mobile Flash Storage   | 노재선 이규선 김영석 정진규         | IEEE            | IEEE Inter Conf on Massive Storage Systems and Technology (MSST) | -      | -          | 예      | 1    | N                   | 50     | [🔗](https://example.com) |
-| 2    | 202407   | Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples             | 안민우 한정민 권영진 정진규         | -               | 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24) | -      | -          | 예      | 4    | N                   | 100    | [🔗](https://example.com) |
-| 3    | 202407   | A Secure, Fast, and Resource-Efficient Serverless Platform with Function REWIND | 송재현 김범석 곽민우 이병영 서의성 정진규 | -               | 2024 USENIX Annual Technical Conference (USENIX ATC 24)       | -      | -          | 예      | 3    | N                   | 50     | [🔗](https://example.com) |
-| 4    | 202410   | Cloud Reamer: Enabling Inference Services in Training Clusters                | Osama Khan 유준열 박관종 서의성     | IEEE            | The Modeling, Analysis, and Simulation of Computer and Telecommunication System (MASCOTS) | -      | -          | 예      | 2    | N                   | 50     | [🔗](https://example.com) |
-| 5    | 202504   | Transparent Smartphone Memory Expansion                                        | 이규선 박진용 이재욱 정진규         | -               | The 40th ACM/SIGAPP Symposium On Applied Computing             | -      | -          | 예      | 1    | N                   | 50     | [🔗](https://example.com) |
+| 1    | 202406   | Fully Harnessing the Performance Potential of DRAM-less Mobile Flash Storage   | 노재선 이규선 김영석 정진규         | IEEE            | IEEE Inter Conf on Massive Storage Systems and Technology (MSST) | -      | -          | 예      | 1    | N                   | 50     | [🔗](First_data\1-2-1%20(최)우수국외학술대회_MSST2024_4.pdf) |
+| 2    | 202407   | Identifying On-/Off-CPU Bottlenecks Together with Blocked Samples             | 안민우 한정민 권영진 정진규         | -               | 18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24) | -      | -          | 예      | 4    | N                   | 100    | [🔗](First_data\1-2-2%20(최)우수국외학술대회_USENIX2024_1.pdf) |
+| 3    | 202407   | A Secure, Fast, and Resource-Efficient Serverless Platform with Function REWIND | 송재현 김범석 곽민우 이병영 서의성 정진규 | -               | 2024 USENIX Annual Technical Conference (USENIX ATC 24)       | -      | -          | 예      | 3    | N                   | 50     | [🔗](First_data\1-2-3%20(최)우수국외학술대회_USENIX2024_2.pdf) |
+| 4    | 202410   | Cloud Reamer: Enabling Inference Services in Training Clusters                | Osama Khan 유준열 박관종 서의성     | IEEE            | The Modeling, Analysis, and Simulation of Computer and Telecommunication System (MASCOTS) | -      | -          | 예      | 2    | N                   | 50     | [🔗](First_data\1-2-4%20(최)우수국외학술대회_MASCOTS2024.pdf) |
+| 5    | 202504   | Transparent Smartphone Memory Expansion                                        | 이규선 박진용 이재욱 정진규         | -               | The 40th ACM/SIGAPP Symposium On Applied Computing             | -      | -          | 예      | 1    | N                   | 50     | [🔗](First_data\1-2-5%20(최)우수국외학술대회_SIGAPP2025.pdf) |
 
 ---
 
