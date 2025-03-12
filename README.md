@@ -83,10 +83,10 @@
 
 | 번호 | 게재연월  | 논문제목                                                          | 총저자명                               | 출처            | 학술지명                    | 권(호)  | 학술지구분 | SCI여부 | IF   | mrnIF  | 국제공동연구 | 기여도 | 링크                |
 |------|-----------|-------------------------------------------------------------------|----------------------------------------|-----------------|-----------------------------|---------|------------|---------|------|--------|--------------|--------|---------------------|
-| 1    | 2023.12   | HypGB: High Accuracy GB Classifier for Predicting Heart Disease with HyperOpt HPO Framework and LASSO FS Method | Abbas Jafar, Myungho Lee               | -               | IEEE Access                | 11()    | Q1         | SCI     | 3.4  | 63.869 | N            | 100    | [🔗](https://example.com) |
-| 2    | 2024.05   | Learning font-style space using style-guided discriminator for few-shot font generation | Ammar Ul Hassan, Irfanullah Memon, Jaeyoung Choi | -               | Expert Systems with Applications | Vol.242 | Q1         | SCI     | 8.5  | 90.502 | N            | 100    | [🔗](https://example.com) |
-| 3    | 2024.07   | Revisiting the Performance Optimization of QR Factorization on Intel KNL and SKL Multiprocessors | Muhammad Rizwan, Enoch Jung, Jongsun Choi, Jaeyoung Choi | -               | Journal of Supercomputing  | Vol.80(10) | Q2         | SCI     | 3.3  | 60.377 | N            | 100    | [🔗](https://example.com) |
-| 4    | 2024.07   | High Accuracy COVID-19 Prediction Using Optimized Union Ensemble Feature Selection Approach | Abbas Jafar, Myungho Lee               | -               | IEEE Access                | 12()    | Q1         | SCI     | 3.4  | 63.869 | N            | 100    | [🔗](https://example.com) |
+| 1    | 2023.12   | HypGB: High Accuracy GB Classifier for Predicting Heart Disease with HyperOpt HPO Framework and LASSO FS Method | Abbas Jafar, Myungho Lee               | -               | IEEE Access                | 11()    | Q1         | SCI     | 3.4  | 63.869 | N            | 100    | [🔗](First_data/2-1-1%20SCI_ACCESS_HypGB_202311.pdf) |
+| 2    | 2024.05   | Learning font-style space using style-guided discriminator for few-shot font generation | Ammar Ul Hassan, Irfanullah Memon, Jaeyoung Choi | -               | Expert Systems with Applications | Vol.242 | Q1         | SCI     | 8.5  | 90.502 | N            | 100    | [🔗](First_data/2-1-2%20SCI_ESWA_StyleGuided_202312.pdf) |
+| 3    | 2024.07   | Revisiting the Performance Optimization of QR Factorization on Intel KNL and SKL Multiprocessors | Muhammad Rizwan, Enoch Jung, Jongsun Choi, Jaeyoung Choi | -               | Journal of Supercomputing  | Vol.80(10) | Q2         | SCI     | 3.3  | 60.377 | N            | 100    | [🔗](First_data/2-1-3%20SCI_JofSuper_QROptimization_202403.pdf) |
+| 4    | 2024.07   | High Accuracy COVID-19 Prediction Using Optimized Union Ensemble Feature Selection Approach | Abbas Jafar, Myungho Lee               | -               | IEEE Access                | 12()    | Q1         | SCI     | 3.4  | 63.869 | N            | 100    | [🔗](First_data/2-2-4%20SCI_ACCESS_Optimized%20Union%20Ensemble%20Feature_202407.pdf) |
 
 ---
 
@@ -94,8 +94,8 @@
 
 | 번호 | 게재연월 | 논문제목                                        | 총저자명                    | 출처         | 학술지명                  | 권(호)     | 학술지구분 | SCI여부 | IF   | 국제공동연구논문여부 | 기여도 | 링크                |
 |------|----------|-------------------------------------------------|-----------------------------|--------------|--------------------------|------------|------------|---------|------|---------------------|--------|---------------------|
-| 1    | 2024.10  | 웹GPU와 웹어셈블리를 이용한 이미지 프로세싱 가속  | 남현우 이명호 박능수         | -            | 정보처리학회 논문지        | 13(10)     | KCI 등재지 | 아니오  | -    | 아니오              | 100    | [🔗](https://example.com) |
-| 2    | 2025.03  | bperf, BCOZ를 활용한 응용의 On-CPU, Off-CPU 동시 성능 프로파일링 | 안민우 정진규                | -            | 정보과학회지 특집원고      | 0(0)       | -          | 아니오  | -    | 아니오              | 100    | [🔗](https://example.com) |
+| 1    | 2024.10  | 웹GPU와 웹어셈블리를 이용한 이미지 프로세싱 가속  | 남현우 이명호 박능수         | -            | 정보처리학회 논문지        | 13(10)     | KCI 등재지 | 아니오  | -    | 아니오              | 100    | [🔗](First_data/3-2-1%20정보처리학회%20202410.pdf) |
+| 2    | 2025.03  | bperf, BCOZ를 활용한 응용의 On-CPU, Off-CPU 동시 성능 프로파일링 | 안민우 정진규                | -            | 정보과학회지 특집원고      | 0(0)       | -          | 아니오  | -    | 아니오              | 100    | [🔗](First_data/3-2-2%20정보과학회지_2503.pdf) |
 
 ---
 
@@ -103,8 +103,8 @@
 
 | 번호 | 게재연월   | 논문제목                                                                  | 총저자명                 | 출처                                  | 학술대회명                                           | 권(호) | 학술지구분 | SCI여부 | IF  | 국제공동연구 여부 | 기여도 | 링크                |
 |------|------------|---------------------------------------------------------------------------|--------------------------|---------------------------------------|-----------------------------------------------------|--------|------------|---------|-----|------------------|--------|---------------------|
-| 1    | 2024.07.19 | Optimizing GEMM routine with Data Preloading on Marvell ThunderX2         | 정에녹 최재영             | -                                     | 15th International Conference on Mechanical and Aerospace Engineering (ICMAE 2024) | -      | -          | N       | -   | N                | 100    | [🔗](https://example.com) |
-| 2    | 2024.09.04 | Persistent Memory I/O-Aware Task Placement for Mitigating Resource Contention | 안현우 김종석 서의성     | ACM                                   | SIGOPS Asia-Pacific Workshop on Systems (APSYS)     | -      | -          | N       | -   | N                | 50     | [🔗](https://example.com) |
+| 1    | 2024.07.19 | Optimizing GEMM routine with Data Preloading on Marvell ThunderX2         | 정에녹 최재영             | -                                     | 15th International Conference on Mechanical and Aerospace Engineering (ICMAE 2024) | -      | -          | N       | -   | N                | 100    | [🔗](First_data/4-2-1%20국외학술대회_ICPAM_2407.pdf) |
+| 2    | 2024.09.04 | Persistent Memory I/O-Aware Task Placement for Mitigating Resource Contention | 안현우 김종석 서의성     | ACM                                   | SIGOPS Asia-Pacific Workshop on Systems (APSYS)     | -      | -          | N       | -   | N                | 50     | [🔗](First_data/4-2-2%20국외학술대회_APSYS_2409.pdf) |
 
 ---
 
@@ -112,23 +112,23 @@
 
 | 번호 | 게재연월   | 논문제목                                                                 | 총저자명                    | 학술지명                              | 국제공동연구 여부 | 기여도 | 링크                |
 |------|------------|--------------------------------------------------------------------------|-----------------------------|---------------------------------------|------------------|--------|---------------------|
-| 1    | 202405     | Optimizing GEMM routine with Data Preloading on ARM ThunderX2            | 정에녹 최재영                | 2024 한국계산과학공학회 춘계학술발표대회    | N                | 100    | [🔗](https://example.com) |
-| 2    | 202405     | CUDA 기반 숄레스키 분해 성능 최적화 환경 탐색                           | 강준범 이명호 박능수         | 한국정보처리학회 ASK 2024 학술발표대회 | N                | 100    | [🔗](https://example.com) |
-| 3    | 202405     | 웹 표준 기반 고성능 이미지 프로세싱 기술 연구                           | 남현우 이명호 박능수         | 한국정보처리학회 ASK 2024 학술발표대회 | N                | 100    | [🔗](https://example.com) |
-| 4    | 202409     | Porting HPCG to Kokkos for Enhanced Portability and Performance          | Muhammad Rizwan 최재영       | 2024 한국계산과학공학회 추계학술대회       | N                | 100    | [🔗](https://example.com) |
-| 5    | 202409     | Fast and Accurate COVID-19 Prediction with Optimized Machine Learning Approach | Abbas Jafar 이명호         | 2024 한국계산과학공학회 추계학술대회       | N                | 100    | [🔗](https://example.com) |
-| 6    | 202409     | Performance Analysis of HPCG Benchmark                                    | 안민우 김나연 빅준규 정진규 | 2024 한국계산과학공학회 추계학술대회       | N                | 100    | [🔗](https://example.com) |
-| 7    | 202409     | Cloud Reamer: Enabling Inference Services in Training Clusters           | Osama Khan 박관종 유준렬 서의성 | 2024 한국계산과학공학회 추계학술대회       | N                | 100    | [🔗](https://example.com) |
-| 8    | 202410     | 웹 실행 코드 타입에 따른 행렬 곱셈 성능 평가                           | 남현우 이명호 박능수         | 한국정보처리학회 ACK 2024             | N                | 100    | [🔗](https://example.com) |
-| 9    | 202410     | KOKKOS 환경에서의 병렬 숄레스키 분해 구현                              | 강준범 이명호 박능수         | 한국정보처리학회 ACK 2024             | N                | 50     | [🔗](https://example.com) |
-| 10   | 202412     | 스레드 배치 방식이 매니코어 프로세서의 성능에 미치는 영향             | 이정주 이명호                | 2024 한국소프트웨어 종합학술대회           | N                | 100    | [🔗](https://example.com) |
+| 1    | 202405     | Optimizing GEMM routine with Data Preloading on ARM ThunderX2            | 정에녹 최재영                | 2024 한국계산과학공학회 춘계학술발표대회    | N                | 100    | [🔗](First_data/5-2-1%20국내학술대회%20KSCSE_2405.pdf) |
+| 2    | 202405     | CUDA 기반 숄레스키 분해 성능 최적화 환경 탐색                           | 강준범 이명호 박능수         | 한국정보처리학회 ASK 2024 학술발표대회 | N                | 100    | [🔗](First_data/5-2-2%20국내학술대회%20ASK%202405.pdf) |
+| 3    | 202405     | 웹 표준 기반 고성능 이미지 프로세싱 기술 연구                           | 남현우 이명호 박능수         | 한국정보처리학회 ASK 2024 학술발표대회 | N                | 100    | [🔗](First_data/5-2-3%20국내학술대회%20ASK%202405.pdf) |
+| 4    | 202409     | Porting HPCG to Kokkos for Enhanced Portability and Performance          | Muhammad Rizwan 최재영       | 2024 한국계산과학공학회 추계학술대회       | N                | 100    | [🔗](First_data/5-2-4%20국내학술대회%20KSCSE%202409.pdf) |
+| 5    | 202409     | Fast and Accurate COVID-19 Prediction with Optimized Machine Learning Approach | Abbas Jafar 이명호         | 2024 한국계산과학공학회 추계학술대회       | N                | 100    | [🔗](First_data/5-2-5%20국내학술대회%20KSCSE%202409.pdf) |
+| 6    | 202409     | Performance Analysis of HPCG Benchmark                                    | 안민우 김나연 빅준규 정진규 | 2024 한국계산과학공학회 추계학술대회       | N                | 100    | [🔗](First_data/5-2-6%20국내학술대회%20KSCSE%202409.pdf) |
+| 7    | 202409     | Cloud Reamer: Enabling Inference Services in Training Clusters           | Osama Khan 박관종 유준렬 서의성 | 2024 한국계산과학공학회 추계학술대회       | N                | 100    | [🔗](First_data/5-2-7%20국내학술대회%20KSCSE%202409.pdf) |
+| 8    | 202410     | 웹 실행 코드 타입에 따른 행렬 곱셈 성능 평가                           | 남현우 이명호 박능수         | 한국정보처리학회 ACK 2024             | N                | 100    | [🔗](First_data/5-2-8%20국내학술대회%20ACK%202410.pdf) |
+| 9    | 202410     | KOKKOS 환경에서의 병렬 숄레스키 분해 구현                              | 강준범 이명호 박능수         | 한국정보처리학회 ACK 2024             | N                | 50     | [🔗](First_data/5-2-9%20국내학술대회%20ACK%202410.pdf) |
+| 10   | 202412     | 스레드 배치 방식이 매니코어 프로세서의 성능에 미치는 영향             | 이정주 이명호                | 2024 한국소프트웨어 종합학술대회           | N                | 100    | [🔗](First_data/5-2-10%20국내학술대회%20KSC%202412.pdf) |
 
 
 ### **6. 워크샵 개최**
 
 | 번호 | 워크샵연월  | 워크샵명                             | 학술대회명                                 | 행사장소 | 참가자수 | 링크 |
 |------|------------|-------------------------------------|------------------------------------------|----------|----------|-----|
-| 1    | 2024.06.27 | 초고성능응용SW 프레임워크개발워크숍 | 2024 한국컴퓨터 종합학술대회 (KCC 2024)    | ICC 제주 | 30       | [🔗](https://example.com) |
+| 1    | 2024.06.27 | 초고성능응용SW 프레임워크개발워크숍 | 2024 한국컴퓨터 종합학술대회 (KCC 2024)    | ICC 제주 | 30       | [🔗](First_data/6.%20워크샵(KCC2024).pdf) |
 
 ---
 
@@ -136,17 +136,17 @@
 
 | 번호 | 보고서 제목                                               | 발간일    | 작성기관      | 등록 번호                     | 링크 |
 |------|--------------------------------------------------------|-----------|---------------|-------------------------------|-----|
-| 1    | GEMM 커널 최적화                                          | 2024.04.20 | 숭실대학교     | KEASE 프로젝트 기술서 24-1    | [🔗](https://example.com) |
-| 2    | Kokkos 프레임워크에서 ExaMPM 테스트                       | 2024.04.20 | 숭실대학교     | KEASE 프로젝트 기술서 24-2    | [🔗](https://example.com) |
-| 3    | 슈퍼컴퓨터 5호기의 성능모델 및 프로그램 실행시간 예측모델 개발 | 2024.04.20 | 명지대학교     | KEASE 프로젝트 기술서 24-3    | [🔗](https://example.com) |
-| 4    | 단일 컴퓨팅 노드 대상 경량 인과관계 프로파일러            | 2024.04.20 | 연세대학교     | KEASE 프로젝트 기술서 24-4    | [🔗](https://example.com) |
-| 5    | CPU 기반 HPC 응용을 위한 최적 자원 설정 기술             | 2024.04.20 | 성균관대학교   | KEASE 프로젝트 기술서 24-5    | [🔗](https://example.com) |
-| 6    | GEMM 커널 최적화 2                                        | 2024.12.31 | 숭실대학교     | KEASE 프로젝트 기술서 25-1    | [🔗](https://example.com) |
-| 7    | HPCG Benchmark -A Comprehensive Survey-                   | 2024.12.31 | 숭실대학교     | KEASE 프로젝트 기술서 25-2    | [🔗](https://example.com) |
-| 8    | Exploring Variants of SymGS Algorithms in HPCG             | 2025.03.10 | 숭실대학교     | KEASE 프로젝트 기술서 25-3    | [🔗](https://example.com) |
-| 9    | 슈퍼컴퓨터 5호기의 메모리 성능 최적화 및 가속기 상에서의 응용 프로그램 성능 최적화 | 2025.03.10 | 명지대학교     | KEASE 프로젝트 기술서 25-4    | [🔗](https://example.com) |
-| 10   | 멀티 프로세스 응용 지원 경량 인과관계 프로파일러         | 2025.03.10 | 연세대학교     | KEASE 프로젝트 기술서 25-5    | [🔗](https://example.com) |
-| 11   | 메모리/공유자원 접근 최적화 및 응용 SW 워크로드 스케줄링 최적화 기술 | 2025.03.10 | 성균관대학교   | KEASE 프로젝트 기술서 25-6    | [🔗](https://example.com) |
+| 1    | GEMM 커널 최적화                                          | 2024.04.20 | 숭실대학교     | KEASE 프로젝트 기술서 24-1    | [🔗](First_data/7-1-1%20[KEASE%20프로젝트%20기술서%2024-1]%20GEMM%20커널%20최적화.pdf) |
+| 2    | Kokkos 프레임워크에서 ExaMPM 테스트                       | 2024.04.20 | 숭실대학교     | KEASE 프로젝트 기술서 24-2    | [🔗](First_data/7-1-2%20[KEASE%20프로젝트%20기술서%2024-2]%20ExaMPM%20테스트.pdf) |
+| 3    | 슈퍼컴퓨터 5호기의 성능모델 및 프로그램 실행시간 예측모델 개발 | 2024.04.20 | 명지대학교     | KEASE 프로젝트 기술서 24-3    | [🔗](First_data/7-1-3%20[KEASE%20프로젝트%20기술서%2024-3]%20성능모델%20및%20예측모델.pdf) |
+| 4    | 단일 컴퓨팅 노드 대상 경량 인과관계 프로파일러            | 2024.04.20 | 연세대학교     | KEASE 프로젝트 기술서 24-4    | [🔗](First_data/7-1-4%20[KEASE%20프로젝트%20기술서%2024-4]%20경량%20인과관계%20프로파일러.pdf) |
+| 5    | CPU 기반 HPC 응용을 위한 최적 자원 설정 기술             | 2024.04.20 | 성균관대학교   | KEASE 프로젝트 기술서 24-5    | [🔗](First_data/7-1-5%20[KEASE%20프로젝트%20기술서%2024-5]%20최적자원설정.pdf) |
+| 6    | GEMM 커널 최적화 2                                        | 2024.12.31 | 숭실대학교     | KEASE 프로젝트 기술서 25-1    | [🔗](First_data/7-2-6%20[KEASE%20프로젝트%20기술서%2025-1]%20GEMM%20커널%20최적화2.pdf) |
+| 7    | HPCG Benchmark -A Comprehensive Survey-                   | 2024.12.31 | 숭실대학교     | KEASE 프로젝트 기술서 25-2    | [🔗](First_data/7-2-7%20[KEASE%20프로젝트%20기술서%2025-2]%20HPCG%20Survey.pdf) |
+| 8    | Exploring Variants of SymGS Algorithms in HPCG             | 2025.03.10 | 숭실대학교     | KEASE 프로젝트 기술서 25-3    | [🔗](First_data/7-2-7%20[KEASE%20프로젝트%20기술서%2025-3]%20SymGS.pdf) |
+| 9    | 슈퍼컴퓨터 5호기의 메모리 성능 최적화 및 가속기 상에서의 응용 프로그램 성능 최적화 | 2025.03.10 | 명지대학교     | KEASE 프로젝트 기술서 25-4    | [🔗](First_data/7-2-8%20[KEASE%20프로젝트%20기술서%2025-4]%20메모리%20및%20응용%20성능%20최적화.pdf) |
+| 10   | 멀티 프로세스 응용 지원 경량 인과관계 프로파일러         | 2025.03.10 | 연세대학교     | KEASE 프로젝트 기술서 25-5    | [🔗](First_data/7-2-9%20[KEASE%20프로젝트%20기술서%2025-5]%20인과관계%20프로파일러.pdf) |
+| 11   | 메모리/공유자원 접근 최적화 및 응용 SW 워크로드 스케줄링 최적화 기술 | 2025.03.10 | 성균관대학교   | KEASE 프로젝트 기술서 25-6    | [🔗](First_data/7-2-10%20[KEASE%20프로젝트%20기술서%2025-6]%20워크로드%20스케줄링.pdf) |
 
 ---
 
@@ -154,8 +154,8 @@
 
 | 번호 | 지식재산권 등 명칭(건별 각각 기재)                                             | 국명  | 출원인                             | 출원일    | 출원번호  | 등록번호 | 등록인 | 등록일 | 등록번호 | 기여율 | 활용여부 | 링크 |
 |------|--------------------------------------------------------------------------|-------|-----------------------------------|-----------|-----------|----------|--------|--------|----------|--------|----------|----|
-| 1    | DEVICE AND METHOD FOR IMPROVING APPLICATION PERFORMANCE BASED ON BLOCK SAMPLES | 미국  | 연세대학교 산학협력단                | 2024.10.31 | 18/933709 | -        | -      | -      | -        | 30     | 미활용    | [🔗](https://example.com) |
-| 2    | CHECKPOINT AND REWIND METHOD AND APPARATUS IN SERVERLESS PLATFORM            | 미국  | 연세대학교 산학협력단, 성균관대학교 산학협력단 | 2024.12.09 | 18/974346 | -        | -      | -      | -        | 50     | 미활용    | [🔗](https://example.com) |
+| 1    | DEVICE AND METHOD FOR IMPROVING APPLICATION PERFORMANCE BASED ON BLOCK SAMPLES | 미국  | 연세대학교 산학협력단                | 2024.10.31 | 18/933709 | -        | -      | -      | -        | 30     | 미활용    | [🔗](First_data/8-2-1%20국제특허(미국).pdf) |
+| 2    | CHECKPOINT AND REWIND METHOD AND APPARATUS IN SERVERLESS PLATFORM            | 미국  | 연세대학교 산학협력단, 성균관대학교 산학협력단 | 2024.12.09 | 18/974346 | -        | -      | -      | -        | 50     | 미활용    | [🔗](First_data/8-2-2%20국제특허(미국).pdf) |
 
 ---
 
@@ -163,9 +163,9 @@
 
 | 번호 | 지식재산권 등 명칭                         | 국명   | 출원인                              | 출원일    | 출원번호      | 등록번호 | 등록인 | 등록일 | 등록번호 | 기여율 | 활용여부 | 링크 |
 |------|--------------------------------------|--------|-----------------------------------|-----------|--------------|----------|--------|--------|----------|--------|----------|-----|
-| 1    | 심장질환 예측모델 구축 시스템 및 방법         | 대한민국 | 명지대학교 산학협력단                   | 2024.10.04 | 10-2024-0134882 | -        | -      | -      | -        | 100    | 미활용    | [🔗](https://example.com) |
-| 2    | 블록 샘플 기반의 애플리케이션 성능 개선 장치 및 방법 | 대한민국 | 연세대학교 산학협력단                    | 2024.10.24 | 10-2024-0146875 | -        | -      | -      | -        | 30     | 미활용    | [🔗](https://example.com) |
-| 3    | 서버리스 플랫폼에서의 체크포인트 및 리와인드 방법 및 장치 | 대한민국 | 연세대학교 산학협력단, 성균관대학교 산학협력단 | 2024.05.21 | 10-2024-0065783 | -        | -      | -      | -        | 50     | 미활용    | [🔗](https://example.com) |
+| 1    | 심장질환 예측모델 구축 시스템 및 방법         | 대한민국 | 명지대학교 산학협력단                   | 2024.10.04 | 10-2024-0134882 | -        | -      | -      | -        | 100    | 미활용    | [🔗](First_data/9-2-1%20국내특허.pdf) |
+| 2    | 블록 샘플 기반의 애플리케이션 성능 개선 장치 및 방법 | 대한민국 | 연세대학교 산학협력단                    | 2024.10.24 | 10-2024-0146875 | -        | -      | -      | -        | 30     | 미활용    | [🔗](First_data/9-2-2%20국내특허.pdf) |
+| 3    | 서버리스 플랫폼에서의 체크포인트 및 리와인드 방법 및 장치 | 대한민국 | 연세대학교 산학협력단, 성균관대학교 산학협력단 | 2024.05.21 | 10-2024-0065783 | -        | -      | -      | -        | 50     | 미활용    | [🔗](First_data/9-2-3%20국내특허.pdf) |
 
 ---
 
@@ -173,9 +173,9 @@
 
 | 번호 | 저작권명                                                   | 창작일    | 저작자명         | 등록일    | 등록 번호        | 저작권자명         | 기여율 | 링크 |
 |------|--------------------------------------------------------|-----------|------------------|-----------|------------------|-------------------|--------|----|
-| 1    | Kokkos(코코스) 기반 애플리케이션을 위한 시스템 프로파일링 도구 | 2024.03.21 | 성균관대학교 산학협력단 | 2024.04.12 | C-2024-013438     | 성균관대학교 산학협력단 | 100    | [🔗](https://example.com) |
-| 2    | 고정밀 코비드-19 예측기                                    | 2024.07.31 | 명지대학교 산학협력단 | 2025.02.14 | C-2025-005935     | 명지대학교 산학협력단 | 100    | [🔗](https://example.com) |
-| 3    | 하이퍼지비(HypGB)                                         | 2024.07.31 | 명지대학교 산학협력단 | 2025.02.14 | C-2025-005936     | 명지대학교 산학협력단 | 100    | [🔗](https://example.com) |
-| 4    | 멀티 프로세스 응용 지원 인과관계 프로파일러               | 2025-02-25 | 연세대학교 산학협력단 | 2025.03.10 | C-2025-008825     | 연세대학교 산학협력단 | 100    | [🔗](https://example.com) |
-| 5    | CPU 환경 OpenMP 라이브러리 기반 적응형 스케줄링을 위한 지원 도구 | 2025.03.05 | 성균관대학교 산학협력단 | (등록중)  | 2025-010705 (접수번호) | 성균관대학교 산학협력단 | 100    | [🔗](https://example.com) |
-| 6    | SPMV/SYMGS 커널생성기                                      | 2025.03.10 | 숭실대학교 산학협력단 | (등록중)  | -                | 숭실대학교 산학협력단 | 100    | [🔗](https://example.com) |
+| 1    | Kokkos(코코스) 기반 애플리케이션을 위한 시스템 프로파일링 도구 | 2024.03.21 | 성균관대학교 산학협력단 | 2024.04.12 | C-2024-013438     | 성균관대학교 산학협력단 | 100    | [🔗](First_data/10-1-1%20저작권%20등록증_프로파일링.pdf) |
+| 2    | 고정밀 코비드-19 예측기                                    | 2024.07.31 | 명지대학교 산학협력단 | 2025.02.14 | C-2025-005935     | 명지대학교 산학협력단 | 100    | [🔗](First_data/10-2-2%20저작권등록증_HypGB.pdf) |
+| 3    | 하이퍼지비(HypGB)                                         | 2024.07.31 | 명지대학교 산학협력단 | 2025.02.14 | C-2025-005936     | 명지대학교 산학협력단 | 100    | [🔗](First_data/10-2-3%20저작권등록증_고정밀%20COVID-19%20예측.pdf) |
+| 4    | 멀티 프로세스 응용 지원 인과관계 프로파일러               | 2025-02-25 | 연세대학교 산학협력단 | 2025.03.10 | C-2025-008825     | 연세대학교 산학협력단 | 100    | [🔗](First_data/10-2-4%20저작권등록증_인과관계프로파일러.pdf) |
+| 5    | CPU 환경 OpenMP 라이브러리 기반 적응형 스케줄링을 위한 지원 도구 | 2025.03.05 | 성균관대학교 산학협력단 | (등록중)  | 2025-010705 (접수번호) | 성균관대학교 산학협력단 | 100    | [🔗](First_data/10-2-5%20저작권등록증_적응형%20스케줄링.pdf) |
+| 6    | SPMV/SYMGS 커널생성기                                      | 2025.03.10 | 숭실대학교 산학협력단 | (등록중)  | -                | 숭실대학교 산학협력단 | 100    |  |
